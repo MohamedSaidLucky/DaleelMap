@@ -29,7 +29,7 @@
   * adding new product
   * adding new offers
   * post article, image, or video
-  * update branch locatioon
+  * update branch location
 - posts and offers have comments and likes
 - User can maessage business
 - Multilingual interface 
