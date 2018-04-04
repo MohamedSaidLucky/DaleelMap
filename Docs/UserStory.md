@@ -70,7 +70,7 @@
 
 **So that** : people can find me when they search for a product i have
 
-## Create Branch / Store
+## Adding Tags
 **As** :  Business owner/ admin/ Manager
 
 **I want to** : craete Tags 
