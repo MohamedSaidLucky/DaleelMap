@@ -1,6 +1,6 @@
 # What is "DaleelMap"
   - Location based search engine for (business, product, service, people products) in a certain location
-  - Users build their business, branches filling them with  products, and services 
+  - Users build their business, branches filling them with  products, and services in categorised way
 # Requirements
 ### Elicitation Requirements
 
