@@ -1,13 +1,13 @@
 # User Stories
 
-### Register 
+## Register 
 **As** : anonymous 
 
 **I want to** : register 
 
 **So that** : I can Login to app features
 
-### Login 
+## Login 
 **As** : anonymous 
 
 **I want to** : Login using user password / Facebook  / google
@@ -15,7 +15,7 @@
 **So that** : I can use app features
 
 
-### Search 
+## Search 
 **As** : anonymous / user
 
 **I want to** : search for Business, Product, service
