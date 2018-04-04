@@ -33,7 +33,7 @@
 - posts and offers have comments and likes
 - User can maessage business
 - Multilingual interface 
-- ability to Translate business, product, service, offers, posts depend on language
+- ability to Translate business, product, service, offers, posts depend on language chosen
 - using payment with visa
 - System admins must review and accept the addition of new business or reject them
 - 
