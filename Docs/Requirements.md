@@ -4,7 +4,7 @@
 - anonymous user can use search only
 - Normal registeration supported
 - Using facebook or goole for login
-- Search for business, Products, Services or people Products  in certain location
+- Search for business, Products, Services or people Products(like olx)  in certain location
 - location depend on marker position on map
   * curret position (device current location)
   * search for location using google map search api
@@ -25,7 +25,11 @@
   * adding new offers
   * post article, image, or video
   * update branch locatioon
-- posts, offers have comments and likes
+- posts and offers have comments and likes
+- User can maessage business
+- Multilingual interface 
+- ability to Translate business, product, service, offers, posts depend on language
+- using payment with visa
 
   
   
