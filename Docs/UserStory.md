@@ -36,3 +36,6 @@
 **I want to** : set location of marker on map
 
 **So that** : i can search arround marker area
+  - getCurrentLocation()
+  - searchLocationByText()
+  - Move Marker Manually
