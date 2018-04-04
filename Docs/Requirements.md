@@ -35,7 +35,8 @@
 - Multilingual interface 
 - ability to Translate business, product, service, offers, posts depend on language
 - using payment with visa
-- System admins must review and accept the addition of new business
+- System admins must review and accept the addition of new business or reject them
+- 
 
   
   
