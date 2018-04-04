@@ -6,9 +6,9 @@
 - Using facebook or goole for login
 - Search for business, Products, Services or people Products  in certain location
 - location depend on marker position on map
- * curret position (device current location)
- * search for location using google map search api
- * move marker
+  * curret position (device current location)
+  * search for location using google map search api
+  * move marker
 - filtering and sorting search results
 - Registered users Can Create business Page
 - Page owners cand add admins, managers and advertiser to manage pages
