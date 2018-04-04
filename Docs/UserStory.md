@@ -1,6 +1,8 @@
 # User Stories
 
 ### Search 
-As : anonymous user/ user
-I want to : search for Business, Product, service
-So that : i can find what i want to search fore
+__ As __ : anonymous user/ user
+
+__ I want to __ : search for Business, Product, service
+
+__ So that __ : i can find what i want to search fore
