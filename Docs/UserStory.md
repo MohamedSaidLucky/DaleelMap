@@ -21,3 +21,18 @@
 **I want to** : search for Business, Product, service
 
 **So that** : i can find what i want to search fore
+
+
+## Search 
+**As** : anonymous / user
+
+**I want to** : search for Business, Product, service
+
+**So that** : i can find what i want to search fore
+
+## Set Location 
+**As** : anonymous / user
+
+**I want to** : set location of marker on map
+
+**So that** : i can search arround marker area
