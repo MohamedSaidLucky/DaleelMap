@@ -33,3 +33,19 @@
   - getCurrentLocation()
   - searchLocationByText()
   - Move Marker Manually
+  
+## Filter Search Result / Sort Them
+**As** : anonymous / user
+
+**I want to** : Filter and sort search result 
+
+**So that** : Ican Get what i want easily
+
+## CHange Search Type
+**As** : anonymous / user
+
+**I want to** : Change search type 
+
+**So that** : i can find business , product , service or people product
+
+
